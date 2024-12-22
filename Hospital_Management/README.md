@@ -20,13 +20,8 @@ A Dummy Web based applicaton for Hospitals where one can create their accounts a
 **Server:** Node, Express, MongoDB
 
 
-## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/Aarav619/hms-frontend.git
-```
 
 Go to the project directory
 
